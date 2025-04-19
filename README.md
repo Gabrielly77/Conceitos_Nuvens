@@ -1,4 +1,4 @@
-# Conceitos_Nuvens
+# Conceitos_da_Nuvem_AWS
 
 # Conceitos da nuvem:
 
